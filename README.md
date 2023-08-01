@@ -2,16 +2,7 @@
 <p align="center"></p>   
 <p align="center"></p>   
 
-<br/><br/>
-<p align="center">
-<br/><br/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Java%20-007396.svg?&style=flat-square&logo=java&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"></a>
-</p>  
 
-   <br/><br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonieejoniee&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
-    <br/><br/>
 
 
 
