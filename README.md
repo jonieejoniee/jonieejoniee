@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF6699&height=250&section=header&text=joniee%20joniee&fontSize=80&fontAlign=50&fontColor=FFFFFF)
 <p align="center"></p>   
-<h3 align="center"> Hi there 👋 
 <p align="center"></p>   
-<h3 align="center">📚 Tech Stack 📚        
+
 <br/><br/>
 <p align="center">
 <br/><br/>
